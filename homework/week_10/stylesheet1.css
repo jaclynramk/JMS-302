@@ -1,0 +1,139 @@
+#one {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    font-family: Helvetica, san-serif;
+    font-size: 100px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: solid;
+    border-color: green;
+}
+
+#two {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+    font-size: 100px;
+    font-family: Georgia, serif;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: dashed;
+    border-color: blue;
+}
+
+#three {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    font-size: 100px;
+    font-family: Garamond;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: solid;
+    border-color: violet;
+}
+
+#four {
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border: dashed;
+    border-color: red;
+}
+
+#five {
+    width: 500px;
+    height: 100px;
+    background-color: cyan;
+    font-size: 90px;
+    text-align: center;
+    font-family: Impact;
+    margin-bottom: 10px;
+    border-radius: 40px;
+}
+
+#six {
+    width: 600px;
+    height: 100px;
+    background-color: blue;
+    font-size: 85px;
+    text-align: center;
+    font-family: Lucida Sans Unicode;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
+
+#seven {
+    width: 700px;
+    height: 100px;
+    background-color: violet;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: fantasy;
+    border-radius: 60px;
+}
+
+#eight {
+    width: 300px;
+    height: 100px;
+    background-color: purple;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Courier New;
+    border-radius: 20px;
+    border-radius: 70px;
+}
+
+#nine {
+    width: 300px;
+    height: 100px;
+    background-color: grey;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Courier New;
+    border-radius: 20px;
+}
+
+#ten {
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Courier New;
+    border-radius: 20px;
+    
+}
+
+table {
+    border: dashed;
+    border-radius: 5px;
+    border-color: magenta;
+    margin-bottom: 50px;
+}
+
+#image {
+    width: 300px;
+    height: 300px;
+    background-image: url(http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=60372167);
+    text-align: center;
+    border: solid;
+    border-radius: 30px;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
