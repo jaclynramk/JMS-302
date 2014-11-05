@@ -1,0 +1,29 @@
+img {
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+    font-family: Helvetica;
+    font-size: 14px;
+}
+
+p {
+    margin: 0px;
+    color: grey;
+    font-size: 13px;
+}
+
+li {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+    display: inline;
+    float: left;
+}
+
